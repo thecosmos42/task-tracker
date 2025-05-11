@@ -11,16 +11,13 @@ A simple and interactive Task Tracker built using **HTML**, **CSS**, and **JavaS
 - Responsive and clean UI
 
 ## 📂 Project Structure
-
+```
 📁 task-tracker/
 ├── index.html # Main HTML file
 ├── style.css # Styles for the task tracker
 ├── script.js # Logic for adding, deleting, and completing tasks
 └── README.md # Project overview and instructions
-
-bash
-Copy
-Edit
+```
 
 ## 🛠️ Setup Instructions
 
@@ -34,3 +31,5 @@ Open the project:
 Simply open index.html in your web browser.
 
 No build tools or servers needed.
+
+https://roadmap.sh/projects/task-tracker-js
